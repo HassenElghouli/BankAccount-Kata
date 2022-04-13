@@ -8,4 +8,7 @@ public class Account {
 
     }
 
+    public void withdrawal(BigDecimal amount){
+
+    }
 }
